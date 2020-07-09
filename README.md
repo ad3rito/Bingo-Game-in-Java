@@ -4,6 +4,7 @@ This project is about the famous game called bingo that i created with my friend
 This game have a menu system with 4 types of categories and they are called "New Game", "Rules", "About us" and "Exit". We developed this game using only Java. 
 Unfortunate this game it's only in portuguese for now.
 
+To launch the game you need to start the bingo in src folder
 
 All the colors we used in this project
 - 50,50,50
